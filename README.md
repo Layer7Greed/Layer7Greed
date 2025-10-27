@@ -56,4 +56,4 @@ My education at HTL Donaustadt, where I completed the five-year program in netwo
 </div>
 
 ## Projects
-- **Homelab PiHole** 
+- [**Homelab PiHole** ](https://github.com/Layer7Greed/Homelab-PiHole)
