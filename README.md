@@ -10,10 +10,11 @@ My education at HTL Donaustadt, where I completed the five-year program in netwo
 ## Skills
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Network Engineering & Infrastructure | <a href="./KLÜ-Übungen/KLÜ-Übungen/KLÜ1/Lab2b AnalyseMitM.pcap">KLÜ-Übungen - Sammlung</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="./././Lab5 SIEM.pkt">. - Sammlung</a> |
-| Attack Simulation - Brute Force | <a href="./4AHITN/4AHITN/ANGE/Angaben/Lab1 Sniffing.pdf">4AHITN - Sammlung</a> |
-| Forensics & Log Investigation | <a href="./KLÜ-Übungen/KLÜ-Übungen/KLÜ1/Lab2b AnalyseMitM.pcap">KLÜ-Übungen - Sammlung</a> |
+| Network Engineering & Infrastructure | [KLÜ-Übungen - Sammlung](./KLÜ-Übungen/KLÜ-Übungen/KLÜ1/Lab2b%20AnalyseMitM.pcap) |
+| Network Traffic Monitoring & Attack Detection | [KLÜ-Übungen - Sammlung](./Lab5%20SIEM.pkt) |
+| Attack Simulation – Brute Force | [4AHITN - Sammlung](./4AHITN/4AHITN/ANGE/Angaben/Lab1%20Sniffing.pdf) |
+| Forensics & Log Investigation | [KLÜ-Übungen - Sammlung](./KLÜ-Übungen/KLÜ-Übungen/KLÜ1/Lab2b%20AnalyseMitM.pcap) |
+| Network Management & DNS Configuration | [Homelab PiHole](https://github.com/Layer7Greed/Homelab-PiHole) |
 
 ## Tools
 
