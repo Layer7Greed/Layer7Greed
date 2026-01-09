@@ -15,6 +15,7 @@ My education at HTL Donaustadt, where I completed the five-year program in netwo
 | Attack Simulation – Brute Force | [4AHITN - Sammlung](./4AHITN/4AHITN/ANGE/Angaben/Lab1%20Sniffing.pdf) |
 | Forensics & Log Investigation | [KLÜ-Übungen - Sammlung](./KLÜ-Übungen/KLÜ-Übungen/KLÜ1/Lab2b%20AnalyseMitM.pcap) |
 | Network Management & DNS Configuration | [Homelab PiHole](https://github.com/Layer7Greed/Homelab-PiHole) |
+| Virtualization & Lab Environment Management | [Proxmox Homelab](https://github.com/Layer7Greed/Proxmox) |
 
 ## Tools
 
@@ -23,6 +24,7 @@ My education at HTL Donaustadt, where I completed the five-year program in netwo
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-VMware-00ADEF?&style=for-the-badge&logo=VMware&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-EA4335?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Proxmox-EE0000?&style=for-the-badge&logo=proxmox&logoColor=white" />
 </div>
 
 ### Security / Pentesting
